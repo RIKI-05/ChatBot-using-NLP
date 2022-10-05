@@ -2,7 +2,7 @@
 This example will help us to think through the design and challenge of creating a chatbot. This chatbot answers the questions related to Machine learning. It is a simple bot with hardly any cognitive skills. Though 'GOD' responds to user input.
 
 
-## NLTK:
+###### NLTK:
 NLTK(Natural Language Toolkit) is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries. NLTK has been called “a wonderful tool for teaching and working in, computational linguistics using Python,” and “an amazing library to play with natural language.”
 
 
